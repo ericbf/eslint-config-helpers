@@ -1,0 +1,19 @@
+{
+	"name": "@ericbf/eslint-config-helpers",
+	"version": "0.0.1",
+	"description": "The shared eslint config for @ericbf/helpers",
+	"repository": "github:ericbf/eslint-config-helpers",
+	"main": "index.js",
+	"keywords": [
+		"eslint",
+		"config",
+		"shared",
+		"config",
+		"lint"
+	],
+	"author": "Eric Ferreira <eric@ericmakesapps.com>",
+	"license": "MIT",
+	"peerDependencies": {
+		"eslint-plugin-react-hooks": ">= 1.0.2"
+	}
+}
